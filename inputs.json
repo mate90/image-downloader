@@ -1,0 +1,10 @@
+[
+    {
+        "SearchQuery": "cute_kittens",
+        "MaxImages": 20
+    },
+    {
+        "SearchQuery": "puppies",
+        "MaxImages": 15
+    }
+]
